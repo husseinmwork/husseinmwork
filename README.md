@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome to Hussein Mohammed profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<!--
-**husseinmwork/husseinmwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skills:
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,js,cpp,python,mysql,sqlite&perline=12"  alt="My Languages"/>
+</p>
 
-Here are some ideas to get you started:
+### IDEs and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,nodejs,vscode,idea,gradle,github,ai,replit,stackoverflow&perline=12"  alt="My IDE's and Tools"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Other Skills
+<p>
+<img src="https://skillicons.dev/icons?i=git,materialui,firebase,regex,md,githubactions,html&perline=12"  alt="My Skills"/>
+</p>
